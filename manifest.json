@@ -1,0 +1,160 @@
+{
+  "background_color": "#ffffff",
+  "description": "카카오 프렌즈 ngrok is the fastest way to put anything on the internet with a single command.",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "pwa연습용",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "카카오",
+  "start_url": "https://depechedepeche.github.io/kakaoFriends/",
+  "theme_color": "#ffffff",
+  "categories": ["social"],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "screenshots": [
+    {
+      "src": "images/srceenshot1.png"
+    },
+    {
+      "src": "images/srceenshot2.png"
+    },
+    {
+      "src": "images/srceenshot3.png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/16.png",
+      "sizes": "16x16",
+      "purpose": "any"
+    },
+    {
+      "src": "images/20.png",
+      "sizes": "20x20",
+      "purpose": "any"
+    },
+    {
+      "src": "images/29.png",
+      "sizes": "29x29",
+      "purpose": "any"
+    },
+    {
+      "src": "images/32.png",
+      "sizes": "32x32",
+      "purpose": "any"
+    },
+    {
+      "src": "images/40.png",
+      "sizes": "40x40",
+      "purpose": "any"
+    },
+    {
+      "src": "images/50.png",
+      "sizes": "50x50",
+      "purpose": "any"
+    },
+    {
+      "src": "images/57.png",
+      "sizes": "57x57",
+      "purpose": "any"
+    },
+    {
+      "src": "images/58.png",
+      "sizes": "58x58",
+      "purpose": "any"
+    },
+    {
+      "src": "images/60.png",
+      "sizes": "60x60",
+      "purpose": "any"
+    },
+    {
+      "src": "images/64.png",
+      "sizes": "64x64",
+      "purpose": "any"
+    },
+    {
+      "src": "images/72.png",
+      "sizes": "72x72",
+      "purpose": "any"
+    },
+    {
+      "src": "images/76.png",
+      "sizes": "76x76",
+      "purpose": "any"
+    },
+    {
+      "src": "images/80.png",
+      "sizes": "80x80",
+      "purpose": "any"
+    },
+    {
+      "src": "images/87.png",
+      "sizes": "87x87",
+      "purpose": "any"
+    },
+    {
+      "src": "images/100.png",
+      "sizes": "100x100",
+      "purpose": "any"
+    },
+    {
+      "src": "images/114.png",
+      "sizes": "114x114",
+      "purpose": "any"
+    },
+    {
+      "src": "images/120.png",
+      "sizes": "120x120",
+      "purpose": "any"
+    },
+    {
+      "src": "images/128.png",
+      "sizes": "128x128",
+      "purpose": "any"
+    },
+    {
+      "src": "images/144.png",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "images/152.png",
+      "sizes": "152x152",
+      "purpose": "any"
+    },
+    {
+      "src": "images/167.png",
+      "sizes": "167x167",
+      "purpose": "any"
+    },
+    {
+      "src": "images/180.png",
+      "sizes": "180x180",
+      "purpose": "any"
+    },
+    {
+      "src": "images/192.png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "images/256.png",
+      "sizes": "256x256",
+      "purpose": "any"
+    },
+    {
+      "src": "images/512.png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "images/1024.png",
+      "sizes": "1024x1024",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "ko"
+}
